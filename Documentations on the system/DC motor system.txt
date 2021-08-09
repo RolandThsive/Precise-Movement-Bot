@@ -1,0 +1,17 @@
+four dc motor system
+
+four dc motors (Skid steering system)
+compass(Accelerometer)
+
+
+
+
+
+
+
+input accepted
+
+df (distance is d(int) and "f" is a char for forward)
+db ("b" is backwarda)
+ar ("r" is rotation and a is angle in integer)
+-ar
