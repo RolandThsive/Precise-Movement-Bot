@@ -1,0 +1,4 @@
+In Assembly prototype 1 open "assemblyproto1.asm" for the complete model.
+
+
+In Assembly prototype 2 open "GOOD Version - Very GOOOOOOD" and then "main_assembly.asm"
